@@ -43,11 +43,11 @@ a{
 	width: 100%;
 }
 
-.heading {text-align:center;}
+.heading {text-align: center;}
 
 .logo{
 	width: 50%;
-	text-align:center;
+	text-align: center;
 }
 
 @media only screen and (min-width: 450px){
@@ -59,7 +59,7 @@ a{
 		margin: 10px;
 	}
 
-	.heading {text-align:right;}
+	.heading {text-align: right;}
 
 	.col-3 {
 		width: 25%;
