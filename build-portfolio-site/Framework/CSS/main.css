@@ -3,6 +3,8 @@
 	font-family: 'Lato', sans-serif;
 }
 
+/*Sematic elements styling*/
+
 img{
 	width: 100%;
 	height: auto;
@@ -20,18 +22,20 @@ h3{
 hr{
 	width: 90%}
 
-
-.container {
-	display: flex;
-	flex-wrap: wrap;
-	max-width: 100%
-}
 a{	
 	display: block;
 	text-align: center;
 	min-width: 48px;
 	min-height: 48px;
 }
+/*Classes*/
+
+.container {
+	display: flex;
+	flex-wrap: wrap;
+	max-width: 100%
+}
+
 
 /* For mobile phones: */
 
